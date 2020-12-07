@@ -1,0 +1,7 @@
+------------test result-------------
+total true num:3701
+total y num:6108
+total predict num:4398
+accuracy:0.841518872214643
+recall:0.6059266535690897
+f1-score:0.7045497810774796
